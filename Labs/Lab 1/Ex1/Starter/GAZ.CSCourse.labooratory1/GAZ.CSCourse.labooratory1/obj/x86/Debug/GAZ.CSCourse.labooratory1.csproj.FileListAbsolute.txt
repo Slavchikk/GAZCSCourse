@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse.labooratory1\GAZ.CSCourse.labooratory1\bin\Debug\GAZ.CSCourse.labooratory1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse.labooratory1\GAZ.CSCourse.labooratory1\bin\Debug\GAZ.CSCourse.labooratory1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse.labooratory1\GAZ.CSCourse.labooratory1\obj\x86\Debug\GAZ.CSCourse.labooratory1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse.labooratory1\GAZ.CSCourse.labooratory1\obj\x86\Debug\GAZ.CSCourse.labooratory1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse.labooratory1\GAZ.CSCourse.labooratory1\bin\Debug\DataFile.txt
